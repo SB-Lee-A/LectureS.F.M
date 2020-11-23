@@ -15,9 +15,6 @@ public class Notice {
 		
 	}
 	
-	
-
-
 
 	public Notice(int id, String title, String writerId, Date regDate, String content, int hit, String files) {
 		super();
